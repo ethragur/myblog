@@ -1,0 +1,12 @@
+title = "Stefan Kuhnert"
+
+[author]
+name = "Stefan Kuhnert"
+image = "img/author.jpg"
+headline = "IT Freelancer"
+links = [
+  { github = "https://github.com/ethragur" },
+  { email = "mailto:contact@stefank.at" }
+
+]
+
